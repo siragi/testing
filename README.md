@@ -1,14 +1,14 @@
-﻿# testing
+# testing
 * bullet, punkt
 - dash, aufzählungszeichen
-< lksjdfldfksj
-> lkdsjflksdfj
-<<< lskdjflksdfj
-lkdsjflkdj
-<<<
+
+> lksjdfldfksj
+>> lkdsjflksdfj
+
+
+
 >>>
 lksjdlkjdfslkdfjlkfsdj
 >>> 
 
-[link.com|link]
-
+[link zu unserem Readme](https://github.com/siragi/testing/edit/master/README.md "unser Readme eben!")
